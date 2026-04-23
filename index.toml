@@ -13,6 +13,11 @@ file = "README.md"
 hash = "a0433f3cf5762fd84276dbe4559550d065d724639bfc34f9bb9d29b7d6f0a517"
 
 [[files]]
+file = "mods/acceleratedrendering.pw.toml"
+hash = "914fc515df459b3e99ceaabcac337419134b886288b4ea42c3d849759687945a"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -313,8 +318,18 @@ hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
@@ -380,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
@@ -453,6 +473,11 @@ hash = "5c936e47a14beddf1a8461fab6ea79edb6f0ba10d73c9b8f093c4b4892546433"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
@@ -513,6 +538,11 @@ hash = "14a344db4da97ac6d8963ff9983e29b8d19ed0b431beef21c008e0da9b6a4c41"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
@@ -520,6 +550,16 @@ metafile = true
 [[files]]
 file = "mods/more-delight.pw.toml"
 hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
@@ -615,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "8f3670cd178c82927b7fb0bda8a086d857fb3f0ba6b8c6d3b41ab11915bc8c67"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]

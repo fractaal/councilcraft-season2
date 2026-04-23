@@ -1,0 +1,13 @@
+name = "Accelerated Rendering"
+filename = "acceleratedrendering-1.0.8-1.21.1-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar"
+hash-format = "sha512"
+hash = "c334b8c1fe202443142f1bdbbbde6fcd0a7b5a9a3765e3aa2c2ec7249b178a7c124b0459236fcc185932ed5bcaf8be2154afa07a5c3af6a1ac4b79a433e8d1e5"
+
+[update]
+[update.modrinth]
+mod-id = "DfECZO3a"
+version = "cNOung9q"
