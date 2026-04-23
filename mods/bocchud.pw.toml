@@ -1,0 +1,13 @@
+name = "BoccHUD"
+filename = "bocchud-0.4.1+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zfPoD7Tm/versions/tOP74nwE/bocchud-0.4.1%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "1fa17cb3b01bb205f38b42c10c30ac5d941d8bd4630e03ce89467fded748086434229ac715ce2258bb4033140547cb678d53f5a2082875026bfaff4b12250e16"
+
+[update]
+[update.modrinth]
+mod-id = "zfPoD7Tm"
+version = "tOP74nwE"
