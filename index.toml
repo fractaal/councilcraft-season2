@@ -476,6 +476,11 @@ hash = "5ead8d8bc26cdbe1a17dc055f7f0fe762a08254d0199d6ea8fcc58839ab274f2"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "3d9e6280e38ac24dac1b5e3ad67f3f68baa67f53871261282ddbb7674611b2d0"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
 metafile = true
@@ -704,3 +709,11 @@ metafile = true
 file = "resourcepacks/ctm-overhaul.pw.toml"
 hash = "ea380068b4416c19847d98cdeb4f4ea421d31c4e80296509de86c14d283ecfc7"
 metafile = true
+
+[[files]]
+file = "scripts/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "scripts/pre-launch.ps1"
+hash = "648d076b09a9356de0212088a91c02a03d2805ef1af52b366592d20f97afe8eb"
