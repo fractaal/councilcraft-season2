@@ -1,12 +1,12 @@
 name = "Vanilla Cafe"
 author = "root"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2455c96be011d26141f9fd81071f1854444d310564b113ed4a8dc6254918c339"
+hash = "201eacfc83eb117a11955725d696071d0450a3dcf53a6a707b342f5283fc1f35"
 
 [versions]
 minecraft = "1.21.1"
