@@ -13,6 +13,10 @@ file = "README.md"
 hash = "a0433f3cf5762fd84276dbe4559550d065d724639bfc34f9bb9d29b7d6f0a517"
 
 [[files]]
+file = "config/connectivity.json"
+hash = "8b8b8cd48f23c577a11a0b45c4ea76b433ffd5dd81659ad47d668e68a522dd3e"
+
+[[files]]
 file = "mods/acceleratedrendering.pw.toml"
 hash = "914fc515df459b3e99ceaabcac337419134b886288b4ea42c3d849759687945a"
 metafile = true
