@@ -143,11 +143,6 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
 file = "mods/citadel-1-21-1-port.pw.toml"
 hash = "61355342229bb75d68a406433c0c2c2bd390799d789cda1a90922145d558fefd"
 metafile = true
@@ -893,4 +888,4 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "scripts/pre-launch.ps1"
-hash = "648d076b09a9356de0212088a91c02a03d2805ef1af52b366592d20f97afe8eb"
+hash = "4b1abd5132d9bfd405a917b51afcc58619f408035b617709d8c5b0c77fc394aa"
