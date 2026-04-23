@@ -93,6 +93,11 @@ hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
+file = "mods/bedsheet.pw.toml"
+hash = "79803478cecaf08cae039a913e74256f5f0e506e4ab48210a67cc001c883b753"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
