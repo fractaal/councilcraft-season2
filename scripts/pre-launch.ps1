@@ -139,18 +139,26 @@ $exit = $LASTEXITCODE
 Pop-Location
 Write-Host $output
 
-# Parse bootstrap output for what changed. Bootstrap prints lines like:
-#   Downloading 5 mods   /   Skipping N up-to-date files   /   Download complete
+# Parse bootstrap output. Real mod-sync lines look like:
+#   (176/180) Downloaded Chunky
+#   (177/180) Downloaded Observable
+#   (112/180) Skipped Noisium (wrong side)     <-- deliberate, not an error
+#   Finished successfully!
+# The "Already up to date!" from the bootstrap self-update check is NOT a mod-sync signal.
 $changed = @()
+$finishedOk = $false
 foreach ($line in ($output -split "`r?`n")) {
-  if ($line -match "^\s*Downloading\s+(.+)") { $changed += $Matches[1] }
-  elseif ($line -match "^\s*Updating\s+(.+)")   { $changed += $Matches[1] }
-  elseif ($line -match "^\s*\[\+\]\s+(.+)")      { $changed += "add $($Matches[1])" }
-  elseif ($line -match "^\s*\[~\]\s+(.+)")      { $changed += "upd $($Matches[1])" }
-  elseif ($line -match "^\s*\[-\]\s+(.+)")      { $changed += "rm  $($Matches[1])" }
+  if ($line -match "^\s*\(\d+/\d+\)\s+Downloaded\s+(.+?)\s*$") {
+    # Ignore .pw.toml and script-file entries — only user-visible changes
+    $name = $Matches[1]
+    if ($name -notmatch "\.pw\.toml$" -and $name -notmatch "\.ps1$" -and $name -notmatch "\.jar$|bootstrap") {
+      $changed += $name
+    }
+  }
+  elseif ($line -match "^\s*Finished successfully!") { $finishedOk = $true }
 }
 
-if ($exit -ne 0) {
+if ($exit -ne 0 -and -not $finishedOk) {
   Show-Notification -StatusMessage "Sync failed (exit $exit).`nLaunching with existing mods..." -StatusColor "Red"
 } elseif ($changed.Count -eq 0) {
   Show-Notification -StatusMessage "I'm up to date!`nReady to launch." -StatusColor "Green"
