@@ -18,7 +18,7 @@ hash = "8b8b8cd48f23c577a11a0b45c4ea76b433ffd5dd81659ad47d668e68a522dd3e"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "6d260f3d8c675ab5fc47000d0e17cc20b20d4fa78dd4533dbfd6b9108abae509"
+hash = "4db6493f31286222f8b3100cbb66dcf5abcda5b48c9d7bc76fa3250c7c3b0362"
 
 [[files]]
 file = "mods/acceleratedrendering.pw.toml"
