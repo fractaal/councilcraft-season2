@@ -1,0 +1,13 @@
+name = "Create: Crushing and Recycling everything"
+filename = "create_care-0.1.5.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UKubQQRq/versions/30TWX853/create_care-0.1.5.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "6451ff867354f0c9e2103ca575f36d32cdf7f073f9fc1cbdd41a0d160a70b99e7c8337b47ca67389266968c71e24d21f0e9f775a25b9acba7d7f8fcfbe01524d"
+
+[update]
+[update.modrinth]
+mod-id = "UKubQQRq"
+version = "30TWX853"
