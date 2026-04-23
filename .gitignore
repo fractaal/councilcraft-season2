@@ -1,0 +1,8 @@
+# Built artifacts — don't commit these
+*.mrpack
+*.log
+bootstrap.log
+additions.log
+
+# Local packwiz cache (if any)
+.cache/

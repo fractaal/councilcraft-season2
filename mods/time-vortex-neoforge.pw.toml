@@ -1,0 +1,13 @@
+name = "Time Vortex (TARDIS)"
+filename = "timevortex-1.0.6-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oc0bUpKV/versions/m87nkhVp/timevortex-1.0.6-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "146f384274c6a72079ec879fd32355d762bb3ce6bbde609a37582ce82599c9ee2b5543b087306f07b161a886884c3f2a8cb39983abdc94cab21d5d2a0a034962"
+
+[update]
+[update.modrinth]
+mod-id = "Oc0bUpKV"
+version = "m87nkhVp"

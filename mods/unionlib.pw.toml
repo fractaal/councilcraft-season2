@@ -1,0 +1,14 @@
+name = "UnionLib"
+filename = "UnionLib-1.21.1-12.0.18-NeoForge-all.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/EkkPwdCY/versions/apj1lnco/UnionLib-1.21.1-12.0.18-NeoForge-all.jar"
+hash-format = "sha512"
+hash = "9f4c0d74c68431be4c7629f32e54d03470ba0acce717b79caf0a1055726b7f95360850b8d35efe9a499f247e19522b50f61fb84d82c503f64a4f46c1cd35eacc"
+
+[update]
+[update.modrinth]
+mod-id = "EkkPwdCY"
+version = "apj1lnco"

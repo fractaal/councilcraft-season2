@@ -1,0 +1,13 @@
+name = "Cataclysm & BetterCombat - Compatibility"
+filename = "cataclysm_compat_1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/53TJSd8P/versions/CGWHkq5m/cataclysm_compat_1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "34dc455e184632bd0b53d835626a382b9694e11aae30d9a9e67b0bfd3b058d285a92cfd8b2227024da2e5c813ab38581880cd2d655748d271a8e31dabfe97ea9"
+
+[update]
+[update.modrinth]
+mod-id = "53TJSd8P"
+version = "CGWHkq5m"

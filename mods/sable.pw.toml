@@ -1,0 +1,13 @@
+name = "Sable"
+filename = "sable-neoforge-1.21.1-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98b491efe417046ced3fc4b2e45f603b5007c972"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7965090
+project-id = 1312371

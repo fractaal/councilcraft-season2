@@ -1,0 +1,13 @@
+name = "Create: Storage [Neo/Forge]"
+filename = "fxntstorage-1.2.6+mc-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a96df0cd277b5823b38507393f4a61a755a3977f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7965698
+project-id = 1281770

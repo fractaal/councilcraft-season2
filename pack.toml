@@ -1,0 +1,13 @@
+name = "Vanilla Cafe"
+author = "root"
+version = "0.1.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a644ab387e93ef3a50f1bf2dac9c61082b24b653718f84938518e0ffb3e5bf0"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
