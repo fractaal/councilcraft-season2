@@ -1,7 +1,7 @@
 param(
   # Host the pack's `pack.toml` somewhere stable (GitHub raw URL, Modrinth, etc.)
   # The bootstrap reads it and downloads / updates mods into $INST_MC_DIR\mods.
-  [string]$PackUrl = "https://raw.githubusercontent.com/fractaal/vanilla-cafe-pack/main/pack.toml",
+  [string]$PackUrl = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/pack.toml",
   [string]$InstanceDir = "",
   [string]$InstJava    = ""
 )
@@ -134,7 +134,7 @@ if (-not (Test-Path $Bootstrap)) {
 
 Write-Host "[SYNC] Running packwiz bootstrap against $PackUrl"
 Push-Location $McDir
-$output = & "$InstJava" -jar "$Bootstrap" --bootstrap-no-update -g "$PackUrl" 2>&1 | Out-String
+$output = & "$InstJava" -jar "$Bootstrap" -g "$PackUrl" 2>&1 | Out-String
 $exit = $LASTEXITCODE
 Pop-Location
 Write-Host $output
