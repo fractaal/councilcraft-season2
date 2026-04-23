@@ -173,6 +173,11 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "8bfd98343c4328a883ead3e1d04e3743fde4edf0143dd234aa28210a21ac1506"
 metafile = true
@@ -295,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "654bbb4dfe9d87548babc27258c7e79d92ffbb36a7a4039708d79267256b11a9"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
 metafile = true
 
 [[files]]
