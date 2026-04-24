@@ -486,6 +486,11 @@ hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
 
 [[files]]
+file = "mods/larion-worldgen.pw.toml"
+hash = "cfd9584cd85b80ce1bc993112f337200ea603149edb6bb47af5f5c915529adf4"
+metafile = true
+
+[[files]]
 file = "mods/leaky.pw.toml"
 hash = "6ac68f7b97f37aa2fa4083f61682c7ea95a3bacb52854c6c4454dfbb0967658a"
 metafile = true
@@ -828,11 +833,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
