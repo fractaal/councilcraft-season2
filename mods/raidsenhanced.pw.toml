@@ -1,0 +1,13 @@
+name = "Raids:Enhanced"
+filename = "raidsenhanced-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jxtyw6LI/versions/nWec2xcv/raidsenhanced-1.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "b80abf667c5ced3980eca5405e40e34274015dd68a16617a1b2c80ad437cd0f9957d11065edafe94dc6a7acdd6ae84e6c56841ecc27c4bcdcc537557e962dcf8"
+
+[update]
+[update.modrinth]
+mod-id = "jxtyw6LI"
+version = "nWec2xcv"

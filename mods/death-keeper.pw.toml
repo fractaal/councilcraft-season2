@@ -1,0 +1,13 @@
+name = "Death Keeper - Grave Stones"
+filename = "death_keeper-1.0b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e923deaef77c84fe184eb18fef27dd953e4de031"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7848467
+project-id = 1495054

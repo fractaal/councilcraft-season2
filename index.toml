@@ -36,6 +36,11 @@ hash = "37a7a5a7d013603e5b1ea8a472f318b8e0dce6a78abd163e851721415263a519"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-1-21-1-port.pw.toml"
 hash = "e3bbf8c3650fd5fc795b36b0b38fdb5bd287b22b6b7d94cde7e35561b0bf5000"
 metafile = true
@@ -226,11 +231,6 @@ hash = "d31fbf89364ee8130adca0dfba3d6aa774d1771632aa60f3f13e1b4ed9e073e5"
 metafile = true
 
 [[files]]
-file = "mods/create-dragons-plus.pw.toml"
-hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
-metafile = true
-
-[[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
 metafile = true
@@ -326,6 +326,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/death-keeper.pw.toml"
+hash = "6cb7eca058ebbc26c0d1666f1be3a1c278ce0b625d5bf429b1d683996b192bed"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7e01c6f0728da08b83df626b866ca83e770b80d3213e9107561d4b816069ed37"
 metafile = true
@@ -333,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "2d70bb7eae5abd50d23cb3ad8d7f85eb4590b985e0d12eda16cae3ca7f2c87d6"
-metafile = true
-
-[[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "6be0888f4633c093f455d9e6d27aa68f0c8879cc2c12a8a4fc569eb22c451bfc"
 metafile = true
 
 [[files]]
@@ -383,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
+metafile = true
+
+[[files]]
+file = "mods/fdlib.pw.toml"
+hash = "66ebc57b6ea5e09a154e21ee6edd384fbbe3002872026bf8224eede15e458456"
 metafile = true
 
 [[files]]
@@ -676,6 +681,11 @@ hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
 metafile = true
 
 [[files]]
+file = "mods/raidsenhanced.pw.toml"
+hash = "3ed916cae5f62882fc2cadb4ef8352edd3968dd4a0fb74bc904bec12b1849b96"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
 metafile = true
@@ -823,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/unionlib.pw.toml"
 hash = "f76864e44e24ed8e0b6f35ab6dc47ecf900defce664a62b10c60f697851599ef"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "7e6948368276f2c49d5bccf52cbf80930d0daca75b4dfbc5530479f1d3f95cf8"
 metafile = true
 
 [[files]]
