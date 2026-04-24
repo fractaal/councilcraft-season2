@@ -13,6 +13,9 @@ if (-not $InstanceDir) { $InstanceDir = "$PSScriptRoot\.." }
 $McDir = Join-Path $InstanceDir "minecraft"
 $Bootstrap = Join-Path $PSScriptRoot "packwiz-installer-bootstrap.jar"
 
+# PS 5.1 ('Desktop' edition) lacks $IsWindows — but it's always Windows. PS Core 6+ provides it.
+$OnWindows = ($PSVersionTable.PSEdition -eq 'Desktop') -or $IsWindows
+
 # ==========================================================================
 # Splash (lifted verbatim from the original pull-before-launch.ps1 — same vibe)
 # ==========================================================================
@@ -23,6 +26,11 @@ function Show-Notification {
     [string]$StatusMessage,
     [string]$StatusColor = "Green"
   )
+  # WinForms + child powershell.exe aren't available off Windows; fall back to stdout.
+  if (-not $OnWindows) {
+    Write-Host "[$StatusColor] $StatusMessage"
+    return
+  }
   $escapedMessage = $StatusMessage -replace "'", "''"
   $logoText = $script:LogoText
   $tempScript = [System.IO.Path]::GetTempFileName() + ".ps1"
@@ -117,8 +125,9 @@ switch ('$StatusColor') {
 
 # Resolve a Java: prefer the one Prism passes in, else try JAVA_HOME, else `java` on PATH.
 if (-not $InstJava -or -not (Test-Path $InstJava)) {
-  if ($env:JAVA_HOME -and (Test-Path (Join-Path $env:JAVA_HOME "bin\java.exe"))) {
-    $InstJava = Join-Path $env:JAVA_HOME "bin\java.exe"
+  $javaBin = if ($OnWindows) { "bin\java.exe" } else { "bin/java" }
+  if ($env:JAVA_HOME -and (Test-Path (Join-Path $env:JAVA_HOME $javaBin))) {
+    $InstJava = Join-Path $env:JAVA_HOME $javaBin
   } elseif (Get-Command java -ErrorAction SilentlyContinue) {
     $InstJava = (Get-Command java).Path
   } else {
