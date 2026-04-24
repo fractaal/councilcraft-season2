@@ -41,6 +41,11 @@ hash = "e3bbf8c3650fd5fc795b36b0b38fdb5bd287b22b6b7d94cde7e35561b0bf5000"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
 metafile = true
 
 [[files]]
@@ -381,6 +391,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
@@ -453,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "6ac68f7b97f37aa2fa4083f61682c7ea95a3bacb52854c6c4454dfbb0967658a"
 metafile = true
 
 [[files]]
@@ -566,6 +586,11 @@ hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "f07c5c8fcafbe85fe9729f6d2258eb426b41f8faad07dce29e7790abbd76edd3"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
@@ -593,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
 
 [[files]]
@@ -698,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "b675c16db470dffe65e4ee37e6a6de592afdcd8f3d7992003e36731fd0eb1ea9"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]
@@ -861,4 +896,4 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "scripts/pre-launch.ps1"
-hash = "4b1abd5132d9bfd405a917b51afcc58619f408035b617709d8c5b0c77fc394aa"
+hash = "eaa302be90c34a260f6764237c7648d4038a3f4f3b19777f37c50cfcdc8d5a91"
