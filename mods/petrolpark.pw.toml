@@ -1,0 +1,13 @@
+name = "Petrolpark's Library"
+filename = "petrolpark-1.21.1-1.4.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ik2WZkTZ/versions/2ECpFJOr/petrolpark-1.21.1-1.4.31.jar"
+hash-format = "sha512"
+hash = "1032eff7a5700efcf353c8dea377c97a5a94931f7677e5c19f81e3061a4757b75b1945c833ec1b8945572afc33cad0e9fbda14230e975007d68a228e0c94b193"
+
+[update]
+[update.modrinth]
+mod-id = "ik2WZkTZ"
+version = "2ECpFJOr"
