@@ -136,11 +136,6 @@ hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
 
 [[files]]
-file = "mods/cataclysm-x-bettercombat-compat.pw.toml"
-hash = "013b9fabe0ddcb2bf828c242688210efe5462b15af9ab240979a4d0633537748"
-metafile = true
-
-[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "87285fe8cbdea7f92729fbd52d3a665da1ef33897697c652f1707746a415c7cc"
 metafile = true
@@ -846,6 +841,16 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest-dungeons-villages.pw.toml"
+hash = "07d66394c90772cbdfbe1c165e12de9e0e10f3798681b95183e4189a1c7215a3"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
 file = "mods/time-vortex-neoforge.pw.toml"
 hash = "c7b11bcff0518e7eb0f96891596381fb5033a8d528935fff31ebd71add912b90"
 metafile = true
@@ -931,8 +936,18 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
+metafile = true
+
+[[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
 
 [[files]]
