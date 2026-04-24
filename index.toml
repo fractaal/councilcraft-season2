@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/death-keeper.pw.toml"
-hash = "6cb7eca058ebbc26c0d1666f1be3a1c278ce0b625d5bf429b1d683996b192bed"
+hash = "28e5006830371ae54593597d26392df4619f0c15b3176769db902dbbbe1d7fbc"
 metafile = true
 
 [[files]]
