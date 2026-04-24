@@ -796,11 +796,6 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
-metafile = true
-
-[[files]]
 file = "mods/time-vortex-neoforge.pw.toml"
 hash = "c7b11bcff0518e7eb0f96891596381fb5033a8d528935fff31ebd71add912b90"
 metafile = true
