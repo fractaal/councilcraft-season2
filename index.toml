@@ -346,6 +346,11 @@ hash = "2d70bb7eae5abd50d23cb3ad8d7f85eb4590b985e0d12eda16cae3ca7f2c87d6"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "6be0888f4633c093f455d9e6d27aa68f0c8879cc2c12a8a4fc569eb22c451bfc"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
