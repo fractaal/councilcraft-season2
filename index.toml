@@ -856,6 +856,11 @@ hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "73a55eea621f7f6db374ad6a12fce24fda8d7948b04b10462ccc38f7d077af80"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
