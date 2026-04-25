@@ -1,0 +1,13 @@
+name = "Animal Hats"
+filename = "animalhatmod-1.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gL68b8ME/versions/mHsEo1Tg/animalhatmod-1.1.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "178dfb4c29dfca15b765773e1035058109106ffad3d2e8b8ea04410c4bc6d6cabf0b9edb483cd49a5c095436b8523c705bb773558c9d1651231f76cbd18a7af6"
+
+[update]
+[update.modrinth]
+mod-id = "gL68b8ME"
+version = "mHsEo1Tg"

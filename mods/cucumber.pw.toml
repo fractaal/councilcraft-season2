@@ -1,0 +1,13 @@
+name = "Cucumber Library"
+filename = "Cucumber-1.21.1-8.0.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rw1NrDzF/versions/RmimPYNS/Cucumber-1.21.1-8.0.15.jar"
+hash-format = "sha512"
+hash = "e117e24d15e7409cc53dae888d1d69d40d7d8d053b04fc764ee2c3735ed1f2dcb55bff21eb4459c44eebd5968899b6bd085ba55d550a87cbf4dd17b54b3387f5"
+
+[update]
+[update.modrinth]
+mod-id = "Rw1NrDzF"
+version = "RmimPYNS"

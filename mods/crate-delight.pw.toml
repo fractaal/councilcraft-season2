@@ -1,0 +1,13 @@
+name = "Crate Delight"
+filename = "cratedelight-25.09.22-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "bc1618b6c9d38386f4df4c60ef1cc18447b9967ac7ca30e9012c7f771d2f6098c1873a9a974c8b728110e68e5561e25ba9b1e047c6373a1c3191aae825001e41"
+
+[update]
+[update.modrinth]
+mod-id = "9rlXSyLg"
+version = "YYynf5qc"

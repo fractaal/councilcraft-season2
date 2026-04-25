@@ -1,0 +1,13 @@
+name = "Just More Cakes!"
+filename = "JustMoreCakes-neoforge-1.21-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RW7zragP/versions/lnhTlZIP/JustMoreCakes-neoforge-1.21-1.19.2.jar"
+hash-format = "sha512"
+hash = "f1f8d524081c45d52afc4582fb24020ea85391eda90dfdc6af22757d3c4661d5d929bfd81561b4d000e3bfdbdb792509579e2cf7254706c9f66dcedc7f64b251"
+
+[update]
+[update.modrinth]
+mod-id = "RW7zragP"
+version = "lnhTlZIP"
