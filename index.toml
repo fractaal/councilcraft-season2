@@ -441,11 +441,6 @@ hash = "9dfa76ffc920d0abefb53c682dbd3a7129ff149761dcd33587971a440ecc025f"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "0bbd127263305d274c354e2cab30175875f5e5f43ee88258fb146942051c5f8b"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true
