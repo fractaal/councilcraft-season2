@@ -816,21 +816,6 @@ hash = "7aa8bf129e51bda25386e18ebcd0db7eae278e95227406e8101a320cacf2f9b6"
 metafile = true
 
 [[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "1cf77e3ef866965471e960a6c0e44feb477b5535a9fdcd2cadb23e298ef136d9"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "2a4ad1aa57fd2cc081a1a2dafecfc2e363ae4e9f2e492f047a2027fa2f49628a"
-metafile = true
-
-[[files]]
-file = "mods/project-red-transmission.pw.toml"
-hash = "73a09887b9159d67ca4635ad2336751e12903dda475c8ad848713dd470e24946"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
