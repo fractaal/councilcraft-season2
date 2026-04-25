@@ -511,11 +511,6 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
-file = "mods/harvest-with-ease.pw.toml"
-hash = "a8c6a45895b59f2a00c108a5247de7eb15083a0bd835ed10c850ca22f81504ba"
-metafile = true
-
-[[files]]
 file = "mods/hearths.pw.toml"
 hash = "40b201d2061f1a0df66401984c5242a8786f24f775f9f15991a280c2a80dc715"
 metafile = true
@@ -688,11 +683,6 @@ metafile = true
 [[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transport-simulator.pw.toml"
-hash = "14a344db4da97ac6d8963ff9983e29b8d19ed0b431beef21c008e0da9b6a4c41"
 metafile = true
 
 [[files]]
@@ -993,11 +983,6 @@ metafile = true
 [[files]]
 file = "mods/time-vortex-neoforge.pw.toml"
 hash = "c7b11bcff0518e7eb0f96891596381fb5033a8d528935fff31ebd71add912b90"
-metafile = true
-
-[[files]]
-file = "mods/transport-simulator-official-vehicle-set.pw.toml"
-hash = "e1dea83477cdedb5de2012ed81e30962a8c21abbff45f57a3d2e5efb606b5245"
 metafile = true
 
 [[files]]
