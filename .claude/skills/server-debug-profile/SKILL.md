@@ -73,15 +73,20 @@ bash .claude/skills/server-debug-profile/scripts/jstack-burst.sh
 
 ### Level 3 — Spark profile (statistical sampling)
 
-Spark uses async-profiler for ~100Hz signal-based stack sampling without safepoints. **It's the right tool when load is broad.** But on Linux it can fail silently producing zero stack samples — see the Caveat below.
+Spark samples Server-thread + worker stacks while you reproduce the issue. Use it when load is broad (jstack burst showed different stacks each dump) or you need a clean call-tree breakdown.
+
+**ALWAYS run with `--force-java-sampler`** on this server. It's mandatory, not optional — see the "Why" footnote below if curious.
 
 ```bash
-# Start a profile that auto-stops after 90s
-mcrcon -H 127.0.0.1 -P 25575 -p benchtest "spark profiler --timeout 90 --interval 4"
+# Start a profile that auto-stops after 60s
+mcrcon -H 127.0.0.1 -P 25575 -p benchtest \
+  "spark profiler --force-java-sampler --timeout 60 --interval 4"
 
 # Watch the log for the upload URL
 sudo tail -f /opt/minecraft-servers/councilcraft-s2/server/logs/latest.log | grep -E "spark.lucko.me/[a-zA-Z0-9]+"
 ```
+
+The log will show `Profiler is now running! (built-in java)` — that's correct. If you ever see `(async)`, you forgot the flag and the profile will be empty.
 
 The URL takes the form `https://spark.lucko.me/<id>`. The user can open it in browser (full GUI), and you can also fetch the underlying binary for local analysis.
 
@@ -111,28 +116,16 @@ The analyzer prints:
 
 **The skill auto-builds proto bindings on first run.** Requires `protoc` + `python-protobuf` packages (already installed; install via `sudo pacman -S protobuf python-protobuf` if missing).
 
-#### 🚨 If `analyze-spark.py` shows `threads: 0` — use `--force-java-sampler`
+#### Why `--force-java-sampler` is mandatory (footnote)
 
-**Confirmed root cause (2026-04-28):** server runs Java 25, but spark 1.10.124 (latest NeoForge 1.21.1 build, dated 2025-02-23) bundles an async-profiler that pre-dates Java 25 support. The library loads, spark logs `Profiler is now running! (async)`, but produces zero stack samples. The browser view at `spark.lucko.me/<id>` also shows "No Data".
+The server runs Java 25. Spark 1.10.124 (the latest NeoForge 1.21.1 build) bundles an async-profiler that pre-dates Java 25 and can't walk Java 25 stack frames. Without `--force-java-sampler`, spark silently uses async-profiler, the library loads, the log says `Profiler is now running! (async)`, but **zero stack samples are recorded** — the resulting profile is empty in both `analyze-spark.py` and the spark.lucko.me web viewer ("No Data — This profile doesn't contain any data!").
 
-This is a **known spark issue** — discussed at https://github.com/lucko/spark/issues (search for "no data") with various JVMs and modpacks affected.
+`--force-java-sampler` switches to the JVM's built-in `ThreadMXBean` sampler, which works on any JVM. Slightly less accurate than async-profiler (safepoint-based, ~30Hz vs ~100Hz signal-based) but produces real, parseable profiles. Good enough for any practical diagnosis.
 
-**THE FIX that works without a JVM swap: pass `--force-java-sampler` to the profiler.** This forces spark to use the JVM's built-in `ThreadMXBean` sampler, bypassing async-profiler entirely.
-
-```bash
-mcrcon -H 127.0.0.1 -P 25575 -p benchtest \
-  "spark profiler --force-java-sampler --timeout 60 --interval 4"
-```
-
-After completion the log line will read `Profiler is now running! (built-in java)` (vs `(async)` for the broken default). The resulting profile parses correctly with `analyze-spark.py` and gives you full thread + class + method breakdowns.
-
-**`--mode java` is a different flag** — silently ignored in spark 1.10.124. Don't use it. Always use `--force-java-sampler`.
-
-Things confirmed *not* to be the cause (so don't waste time on these):
-- Whalebone DNS interception (the empty binary is genuinely what spark uploaded)
-- `kernel.perf_event_paranoid=2` (lowering to 1 didn't change result)
-
-**Optional longer-term fix: switch server JVM to Java 21 LTS** so async-profiler's signal-based sampling works again. async-profiler is more accurate (100Hz vs ~30Hz for `--force-java-sampler`'s safepoint-based sampling) and adds less Server-thread overhead. But the built-in sampler is good enough for spotting hot mods and broad load patterns — only consider downgrading the JVM if you need ultra-fine-grained sampling.
+**Things that look like fixes but aren't:**
+- `--mode java` — silently ignored in spark 1.10.124. Don't waste your time.
+- `kernel.perf_event_paranoid=1` — doesn't help (the issue is JVM-level, not kernel-level).
+- DoH-bypass for Whalebone DNS — works for the fetch but the empty binary is genuinely what spark uploaded.
 
 ### Level 4 — Crash report post-mortem
 

@@ -69,18 +69,15 @@ def main():
     print()
 
     if len(d.threads) == 0:
-        print("⚠️  No thread/stack data in this profile — async-profiler captured 0 samples.")
+        print("⚠️  Empty profile — you forgot --force-java-sampler.")
         print()
-        print("   ROOT CAUSE on Java 25 hosts: spark 1.10.124's bundled async-profiler")
-        print("   pre-dates Java 25 support. It loads but can't walk Java 25 stacks.")
-        print()
-        print("   FIX: re-run the profile with --force-java-sampler:")
+        print("   On this server you ALWAYS need --force-java-sampler. Re-run:")
         print()
         print('     mcrcon -H 127.0.0.1 -P 25575 -p benchtest \\')
         print('       "spark profiler --force-java-sampler --timeout 60 --interval 4"')
         print()
-        print("   After completion the log will say 'Profiler is now running! (built-in java)'")
-        print("   and the resulting profile will have actual samples.")
+        print("   The log should say 'Profiler is now running! (built-in java)'.")
+        print("   If it says '(async)', the flag didn't take effect — check spelling.")
         return
 
     interval_ms = (md.interval / 1000) if md.interval else 1.0  # interval is microseconds
