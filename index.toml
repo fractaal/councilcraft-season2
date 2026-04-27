@@ -246,6 +246,11 @@ hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
+file = "mods/construction-wands-revived.pw.toml"
+hash = "47441a830eb4d9f1527289cc7c2cfb5f1096b9096a4aaa58316a360995cbcc6c"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "fd3c34eec1393f1baab1a87920700d74c55a1521d47314300e9717a9d502986a"
 metafile = true
