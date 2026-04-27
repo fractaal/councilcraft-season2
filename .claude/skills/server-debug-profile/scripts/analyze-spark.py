@@ -70,11 +70,17 @@ def main():
 
     if len(d.threads) == 0:
         print("⚠️  No thread/stack data in this profile — async-profiler captured 0 samples.")
-        print("   Causes:")
-        print("    • kernel.perf_event_paranoid >= 2 blocks unprivileged perf sampling")
-        print("      → fix: sudo sysctl kernel.perf_event_paranoid=1")
-        print("    • profile started during a crisis where signal delivery was suppressed")
-        print("    • use spark profiler --mode java as a fallback (built-in JVM sampling)")
+        print()
+        print("   ROOT CAUSE on Java 25 hosts: spark 1.10.124's bundled async-profiler")
+        print("   pre-dates Java 25 support. It loads but can't walk Java 25 stacks.")
+        print()
+        print("   FIX: re-run the profile with --force-java-sampler:")
+        print()
+        print('     mcrcon -H 127.0.0.1 -P 25575 -p benchtest \\')
+        print('       "spark profiler --force-java-sampler --timeout 60 --interval 4"')
+        print()
+        print("   After completion the log will say 'Profiler is now running! (built-in java)'")
+        print("   and the resulting profile will have actual samples.")
         return
 
     interval_ms = (md.interval / 1000) if md.interval else 1.0  # interval is microseconds
