@@ -1,0 +1,13 @@
+name = "Mo' Bends [MODERN PORT]"
+filename = "MoBends-neoforge-1.21.1-5.1.7.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0b8934f9365ad27e87d5fe6237721ba42718971a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7752164
+project-id = 1438637

@@ -1,0 +1,13 @@
+name = "Joyful Motions"
+filename = "Joyful Motions.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2Nx245G/versions/nmVMmCQV/Joyful%20Motions.zip"
+hash-format = "sha512"
+hash = "5d521bb1fafb5d947373f0ece1a616db172d7d772c77f06bf3fcf3458a5c14f860a4e7e8af2f7f9d67e6f12ac467a57aced9b6e89e4816239dc94dce6a336e3a"
+
+[update]
+[update.modrinth]
+mod-id = "Q2Nx245G"
+version = "nmVMmCQV"

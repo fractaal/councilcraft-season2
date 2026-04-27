@@ -1,0 +1,13 @@
+name = "Better Combat Particle"
+filename = "bc_particle-0.0.2-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nc3f2m7t/versions/ei0rju1s/bc_particle-0.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "d9db4cdb9377e2c2c6f458370f414d26958ae6f7bc2559de44cf436d0484688b60516d9f88576b23862b2df12a3fb9599ee4b40dea11046c6adf537b3ba867c4"
+
+[update]
+[update.modrinth]
+mod-id = "Nc3f2m7t"
+version = "ei0rju1s"

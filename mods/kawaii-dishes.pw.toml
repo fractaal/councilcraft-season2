@@ -1,0 +1,13 @@
+name = "Kawaii Dishes"
+filename = "kawaiidishes-1.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b850820a61cc0dff7ec3b3a8706dd6ec2e6af1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6111877
+project-id = 694309

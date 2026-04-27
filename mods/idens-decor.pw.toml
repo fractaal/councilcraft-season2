@@ -1,0 +1,13 @@
+name = "Iden's Decor"
+filename = "iden_decor-neoforge-1.21.1-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lvtoSiQS/versions/m84BvYXp/iden_decor-neoforge-1.21.1-2.2.4.jar"
+hash-format = "sha512"
+hash = "401edb43b5bda760346f8d2ac95ca20791795b4f7bb55a94101f8a12b3f5bade4b9f0830530fc058b1999d8ce586ff6bd0e873b47b25d7d264c192eb929b49b1"
+
+[update]
+[update.modrinth]
+mod-id = "lvtoSiQS"
+version = "m84BvYXp"
