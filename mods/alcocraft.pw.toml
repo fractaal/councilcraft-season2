@@ -1,0 +1,13 @@
+name = "AlcoCraft+"
+filename = "alcocraftplus-1.21.1-2.1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6t2MdNbo/versions/V0pbcqrh/alcocraftplus-1.21.1-2.1.0-neoforge.jar"
+hash-format = "sha512"
+hash = "52389c31ef37a71f462ef1aba262f87c056c68fbbb8efa8cf82424cddb66e5cb1ee4ab08528cf788fa73d4b3210e6332322638eff4976ca289aca72c6c1b4722"
+
+[update]
+[update.modrinth]
+mod-id = "6t2MdNbo"
+version = "V0pbcqrh"
