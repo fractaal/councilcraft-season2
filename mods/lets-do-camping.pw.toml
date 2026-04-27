@@ -1,0 +1,13 @@
+name = "[Let's Do] Camping"
+filename = "camping-neoforge-1.21.1-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJXTNuf0/versions/FbkgllmH/camping-neoforge-1.21.1-2.1.4.jar"
+hash-format = "sha512"
+hash = "98e50cd679a7a3a0aa0fc8478524b4f367c34dcda9c6affed6aef5d658a270af33abacdee03eeebe4f7f413a1f09fb6502161e63962b09bec38b954dbaf9ef56"
+
+[update]
+[update.modrinth]
+mod-id = "uJXTNuf0"
+version = "FbkgllmH"

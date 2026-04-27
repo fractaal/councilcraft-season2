@@ -121,6 +121,11 @@ hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
 metafile = true
 
 [[files]]
+file = "mods/apple-wood-rebarked.pw.toml"
+hash = "21dc17d614ce63ef9b8e8dc0e3abe88e4cdbbb879e16f4428cfd240f8a1d5b76"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/betterdays.pw.toml"
 hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
 metafile = true
 
 [[files]]
@@ -731,6 +741,21 @@ hash = "6ac68f7b97f37aa2fa4083f61682c7ea95a3bacb52854c6c4454dfbb0967658a"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "2478c8520ff2a5cbf5d4644007c5f751bfbe41a3603352bcb68849e817bbad5f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-corn-expansion.pw.toml"
+hash = "9b7586d3c48de17a397c80a413ba5b14093c19d44da8a7a107ab8a1a3924a0d3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-alpine-whispers.pw.toml"
+hash = "2b52849d59151f1b7eff5c25f1a1a11e8ec6f673f46de3cbfa70eb120eb19869"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "bcc419e665600b7ae3351478c159477c6a4b3d59b08e7da73499dbc929812385"
 metafile = true
@@ -741,8 +766,18 @@ hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "2c4c6fee2c93ccbbeaa0fe618c7f2b34bd54f0d8e911bbd644fd27b4fddeac76"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
 hash = "70ce15946e4233feb55c10b5958db355a3e209c592c19fa273176d894423f9cb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-camping.pw.toml"
+hash = "cae22ec478fcb3c27c3092cf76508e6d631089301ef606c92850682a889b915f"
 metafile = true
 
 [[files]]
@@ -756,8 +791,33 @@ hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-hearth-timber.pw.toml"
+hash = "78cc627be0b7ad42a04fb60b5e051ccbee72b014913e6d84727417e107fd0362"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
 hash = "513e9da3100c93614934751c179fbd800f4a409e12a7ba5d44cd09407d211bb0"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-lilis-lucky-lures.pw.toml"
+hash = "502eb9a93fcfce03a91ad7568b37228165d7ca531ea17acc8ad51c0af202d980"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-lilis-pottery.pw.toml"
+hash = "a06f7b1cd78e40e5b7c1f1058496d1b137d57ac74170a4e5f4de8c10d7128d0f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow-sawmill-compat.pw.toml"
+hash = "38346d80cb3879e85735583381da8b3bbf348e0259665a99cba449a5976be5f2"
 metafile = true
 
 [[files]]
@@ -768,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "dd7ec3687553b3e83d76b72ca22ec84cb8f4e618585aeb972377c42a7d6ae72a"
 metafile = true
 
 [[files]]
@@ -833,6 +898,16 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
+metafile = true
+
+[[files]]
+file = "mods/macaws-quark.pw.toml"
+hash = "4ee2eb6702d21d85aa825c5fbf61273564e4b0bee3182bb9c0b3e24e51203081"
+metafile = true
+
+[[files]]
+file = "mods/macaws-regions-unexplored.pw.toml"
+hash = "a2eedcedb120c02cb16a10db5781dbc4149dffde1d475ee28ef4a5982bfea8af"
 metafile = true
 
 [[files]]
@@ -1108,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/seasonal-lets-do.pw.toml"
+hash = "ddd75a02997d5856de28bdaf36fc5d08a0d6d6d3401692650f13f04f09d5eaed"
 metafile = true
 
 [[files]]

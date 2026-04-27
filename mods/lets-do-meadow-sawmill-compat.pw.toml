@@ -1,0 +1,13 @@
+name = "[Let's Do Meadow] - Sawmill Compat"
+filename = "lets-do-meadow-sawmill-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VCLcF6ou/versions/TgmqWbxv/lets-do-meadow-sawmill-compat-1.0.jar"
+hash-format = "sha512"
+hash = "47a3cc956064cc9ee95b13d23d4ecfaebc04eb2d7827853713a464a7c75d63733a11f53b7e6a7b2ed17c9d44dcdf8b2f3a5b86c4533e604536b66a738213004e"
+
+[update]
+[update.modrinth]
+mod-id = "VCLcF6ou"
+version = "TgmqWbxv"
