@@ -141,6 +141,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "a4c9207aac3667fd2021bba2879b8407d5f6609b34f2f1c8fea70d9fa302b093"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "02261f67e57ae598614d40061c0b7f0c511a28bddcdc394da47a8c61ad209823"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/arsdelight.pw.toml"
 hash = "4cb216ce5180c707ea38e47de43cbda4a927a4a0534d325d1cb8a72f7e529072"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "ec014d5f3a17c0daad38840adc7b5de98de7dacdf9826c32c4c5f6389d27e5cb"
 metafile = true
 
 [[files]]
@@ -643,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/gabous-libs.pw.toml"
 hash = "92303dbd8c17ce81bbd7c4280834c5f9c6423c0fdd69ced12fb666e30384574e"
+metafile = true
+
+[[files]]
+file = "mods/gazebos.pw.toml"
+hash = "7fc039ec92f628dc7679a7afcb319f443081c3aecc59819257cb32100a85af38"
 metafile = true
 
 [[files]]
@@ -1168,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
+metafile = true
+
+[[files]]
+file = "mods/relics-rpg.pw.toml"
+hash = "10d3e32162d601eef892f9cecde6028ec48881999b063138b3674a45e2200b2b"
 metafile = true
 
 [[files]]
