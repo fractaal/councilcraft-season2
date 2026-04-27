@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
-hash = "2478c8520ff2a5cbf5d4644007c5f751bfbe41a3603352bcb68849e817bbad5f"
+hash = "50fcf316da46ab40812b30013f8427614c41e5778509ed117dcb304c31fc9169"
 metafile = true
 
 [[files]]
