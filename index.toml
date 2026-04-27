@@ -131,6 +131,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "59ef95f3ffc0a9f5a4d3be82d09c5f2608c83fc7a4b9dd4ef4eb0070d15d11b7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/athena.pw.toml"
 hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
 metafile = true
 
 [[files]]
@@ -716,6 +726,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+hash = "6138ad725b71ed421496fb95fb72b6850a289f01f399cae639838649526c5ea9"
+metafile = true
+
+[[files]]
 file = "mods/just-more-cakes.pw.toml"
 hash = "73b5d12dd2c397dd4efd221509f0da9ad64f554fc31b9dddcc551858c9e0cfd8"
 metafile = true
@@ -1061,6 +1076,11 @@ hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "dfeea0349a851f6495e4d4bc7b8d633fecfd3b7263364eb00024a2af1d233f08"
 metafile = true
@@ -1176,8 +1196,18 @@ hash = "9c0d37bfbfdda77af1946da1d80aa48e7dfea9611c43d5c81c70676b1d854af6"
 metafile = true
 
 [[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "e35cf7c4bfef1d4cf8158c4df9134b93bce4f99e00829aa3d48912b7beffc0b7"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
 
 [[files]]
@@ -1218,6 +1248,11 @@ metafile = true
 [[files]]
 file = "mods/shellbound-for-airship.pw.toml"
 hash = "45bfd1ceaa0195b43216b65494d5ce7d19a945663836d3a21c8ea04974533dde"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
 
 [[files]]
@@ -1321,6 +1356,11 @@ hash = "e2ab46d275b5037d19198f4cff55fe3e4672c3f5c8ca60e91d3b3e57ab13810c"
 metafile = true
 
 [[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "2f809d67663e54f80baff9e541baa5f0373701cf718aba670f0c52c14f7681e9"
 metafile = true
@@ -1401,6 +1441,11 @@ hash = "f6b0fa3fae51b67e39f2bca336126e26ca2df1e0279ecff99176656472671978"
 metafile = true
 
 [[files]]
+file = "mods/village-taverns.pw.toml"
+hash = "8cc0abc83f6856b8f5b6cbcd1c36da9d9315d273fe8c4ec87fbdafa337f82f0a"
+metafile = true
+
+[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "89587a0643aa126da364a94ae1c1c3935dcb03759b4caac30875b41ac9984734"
 metafile = true
@@ -1408,6 +1453,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
 metafile = true
 
 [[files]]
