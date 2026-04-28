@@ -1,0 +1,13 @@
+name = "Create: Aeroworks"
+filename = "aeroworks-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGh45VSL/versions/QSLouQYe/aeroworks-1.2.2.jar"
+hash-format = "sha512"
+hash = "f6caba4bffe6efc970983bbecf53e6b6ea55ec9409e682b5ed53cc0189dfae9cee8569183fb80a38ae4f84d6b735e16b5bbb5f706df4c1b5410716d2f929b86d"
+
+[update]
+[update.modrinth]
+mod-id = "oGh45VSL"
+version = "QSLouQYe"

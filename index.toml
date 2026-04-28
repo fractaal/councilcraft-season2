@@ -191,6 +191,11 @@ hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
+file = "mods/better-library.pw.toml"
+hash = "067421670e4da3f6acab7f147baf462482faf526c414828a87088640bac34052"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
@@ -366,6 +371,16 @@ hash = "8bfd98343c4328a883ead3e1d04e3743fde4edf0143dd234aa28210a21ac1506"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks-modrinth.pw.toml"
+hash = "86e3ef6f213b2ab29b5943dbb0eb52e98798b7f3a9fc6f634721e87a7c07da04"
+metafile = true
+
+[[files]]
+file = "mods/create-better-motors.pw.toml"
+hash = "1a3fe76acbd258d6a5f5411f31d2860bbeeac0ebfd00df1420ea079e53c9da7c"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
@@ -373,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
 hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "681bc58cb8782800ad2dc5d21199e35b5048ed2b1b32c9e06579e41ee3c199a3"
 metafile = true
 
 [[files]]
@@ -406,6 +426,11 @@ hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
+file = "mods/create-horse-power.pw.toml"
+hash = "a12996b593450756ebe5b374f8d7ce8969d5460d5141a4ed956c44b3387c584d"
+metafile = true
+
+[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "fc49d6cf786feaabbb26ae0109498f5dab7c20fc939bdd650a38d46a31803e7c"
 metafile = true
@@ -413,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/create-more-features.pw.toml"
 hash = "4c2a8d07fc42c3a0f3dfc49e8acc2d9c2271be07b6ad71341e308e92dd83571d"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "d89b4b4ab53dbb862b01c81fed02e57df013c37b8cd19845245d6a9da6d436c9"
 metafile = true
 
 [[files]]
@@ -438,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "fe60a010c4a980865f3497cbc1247b40fadbb4bf68c9b653a241227bd7e52525"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "e002fe71d2ddab09d22e9def9aef6cfc4decfcf372ca40c9cb4d7987f3190fad"
 metafile = true
 
 [[files]]
@@ -1323,6 +1358,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9f2fff72148af2a06394db56a347632c7089843f8684c51d5eb95a54ca9ef3d6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "8f9cfa61518cb3f9a1bca32ff2a50d39bb5dc33041a34cbe292462f6cefa3069"
 metafile = true
 
 [[files]]
