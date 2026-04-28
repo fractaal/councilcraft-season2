@@ -986,11 +986,6 @@ hash = "35b03bb2dee1bcbb0436d2024d5c4803930ace5337f0380c6f1fec7a2f75a0cf"
 metafile = true
 
 [[files]]
-file = "mods/mo-bends-unofficial-modern-port.pw.toml"
-hash = "a3c32eab2376a46af46745461c17ab4ce133fc9bf433f68ab80be2e413f8e0c4"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
@@ -1068,11 +1063,6 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "29b2520a14c905e6918a62a05805b06f9bf6e7bf97194d89b13c5f8ff7fee2ca"
-metafile = true
-
-[[files]]
-file = "mods/overgeared.pw.toml"
-hash = "2438ee73195c7928945c2a6b1b74e5278bc87c190411aed0da632c61a61a7eb8"
 metafile = true
 
 [[files]]
