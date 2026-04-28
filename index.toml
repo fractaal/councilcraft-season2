@@ -96,11 +96,6 @@ hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
 metafile = true
 
 [[files]]
-file = "mods/aperture-innovations.pw.toml"
-hash = "8e483ecabdcb5b27c31b35e4d8d610187fc7fb9012bcd774b6149b5b671dbed2"
-metafile = true
-
-[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
 metafile = true
