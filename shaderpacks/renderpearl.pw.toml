@@ -1,0 +1,49 @@
+filename = 'RenderPearl v2.8.0-beta.2.zip'
+name = 'RenderPearl'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.8.0-beta.2'
+
+[download]
+hash = '2a918c06213a362e241498cba2722725f94fdc4e44f0b0bec0ca4bdc177c23b16141abfcb20cc15d061f3867519163e6e8b714d6c216a6cc624d3a285f3c96b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BrRak9pu/versions/fKbKr1ez/RenderPearl v2.8.0-beta.2.zip'
+
+[update.modrinth]
+mod-id = 'BrRak9pu'
+version = 'fKbKr1ez'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uCdwusMi'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'apRGdwku'
+type = 'INCOMPATIBLE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fxxUqruK'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'yv6sGJzN'
+type = 'OPTIONAL'

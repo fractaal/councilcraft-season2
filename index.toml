@@ -1617,3 +1617,228 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "scripts/pre-launch.ps1"
 hash = "eaa302be90c34a260f6764237c7648d4038a3f4f3b19777f37c50cfcdc8d5a91"
+
+[[files]]
+file = "shaderpacks/arc-shader.pw.toml"
+hash = "aa245ca877af81834d17851f79563ceb96e0b028b0fb37be8d477a0c8a044646"
+metafile = true
+
+[[files]]
+file = "shaderpacks/astralex.pw.toml"
+hash = "e2bb423e84a160c6b35f58b002e239dcc1b84dacdb5897c5dc92b90e73e7d792"
+metafile = true
+
+[[files]]
+file = "shaderpacks/auroras-shaders.pw.toml"
+hash = "129478d72762c6dc47795822ecabb65e88c359c3861d0ec93eaa375b5f574db7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "07990bccca27ad93de7532ca0915acb32d4f7af3d74b68125e99f2dad8304456"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bloop-shaders.pw.toml"
+hash = "b72e896ff8ef2a244ea9e9acc937d1ed74780b679d7f860a34a3d245c3aa1bdf"
+metafile = true
+
+[[files]]
+file = "shaderpacks/body-camera-shader.pw.toml"
+hash = "33b52d50ef693063f32ecaf1757283c7807da1db01a662cbb77c153ac1be68ae"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "9a9356dba2e864e3b82705a272ae72dff4cf2e807ce2d9cf7f885efeda213b5f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/builders-qol-shaders.pw.toml"
+hash = "d1b5cc7c66ad893d4ed64d5013a2b783de13b35ffec8170768a04cb5e5c76aad"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bvs.pw.toml"
+hash = "cf74f02dd93264e1d81825f45f4490c81e7f8e2474ba43ab63a9992897252100"
+metafile = true
+
+[[files]]
+file = "shaderpacks/clarityshader.pw.toml"
+hash = "64f443b7fdbf13cdf164b5edf7d5e0d67c207522d8ed45ed8080a99b0fac0017"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "2aa503c07e550919410a08b752fa4dcd35a26a9bbdc064ab67c1c7870ddf3e2b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "0f5b15059da88c24619643962621427c672eeb7759734a1e31941d2277e1bb23"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ctrvcr.pw.toml"
+hash = "b0a1b3c7c982b7b8f57f8987f5de96ab3de2424d8f74e31136430ca0856f9c8d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/derivative-shader.pw.toml"
+hash = "f7019416f71b33d6e3ed376d4dda1b418abb3f421b6c69d5fab719f16e736a97"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ebin-resurrected.pw.toml"
+hash = "c97d272b907fff203e03918a6247c29a6cef3f608c0ae7ef7b9b2cca862bd724"
+metafile = true
+
+[[files]]
+file = "shaderpacks/exposa-shaders.pw.toml"
+hash = "9fbed2430a01e6ab4449c14ffeff731cbf842c573c73e755e629a67ff37586c1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/fantasy-shaders.pw.toml"
+hash = "7f3ee74f5c60dd6a784e7c9b59ce416edfac6ee7c84940e70c3b90e512930f81"
+metafile = true
+
+[[files]]
+file = "shaderpacks/fastpbr.pw.toml"
+hash = "882ffe9472d112e6aa1990e16184279e1b98529dd3835d5eb576df110369d749"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+hash = "6b8447f885cb5a18d2d615390aee1050df5b8a498d4b15f6c4d89fb7ddb0b7ca"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "578c9dd6a145f5c4217cfa72fd868c6dcb742ff81f8a80faf9f2f026d096eabb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa-shader.pw.toml"
+hash = "e8cd38174f61426cfea1a8a2e3a5d75c1cc18ca2193a4e3a157f3aabafb30b1d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/lux-v1.pw.toml"
+hash = "3512699b5d98188c068816225079f2a4764924126d9bcc69791bbe6a209e83b4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "12bc0852780169d90ea17b0fd9c0e2c33cf178bc817ef2e761a901f2fe4f6de6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mc-vhs.pw.toml"
+hash = "890b89f424a703ccbb8368b8dcd8bca28af99368486e7c328d22c030cd5ed827"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "c744d038fc1d5546c0fb7c1e75124543ef50839684a6e2cdb44fda7773712fe5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "306cfd8221a121ddaa874fff4050f0a44a68a09e437d0a3e39edc740ec8caf89"
+metafile = true
+
+[[files]]
+file = "shaderpacks/noble.pw.toml"
+hash = "fa2e363c5d6a709a1f88661332abd339cff50b77b2c27e5e2330aa62c23fa9b8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "ac78e564a73a7642c43ffb6850237a58c70d1efdfec6c2d34ab3f04a8ff8b90d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pastel-shaders.pw.toml"
+hash = "16096b21b20a2b321af0bb79147388e737961bd1a6765ea8a17d251952c95c17"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pegasus.pw.toml"
+hash = "da911b4ff93c6e656e7c5052c7683c14b04e1359814928ab14293d921cbad9be"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "365ec6f6b442cece770903194fad02e29354d42c62f1291c72c1dfef86ed8e8e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pixel-perfect-shaders.pw.toml"
+hash = "7bfcb454793da6ef425f798751ab7c4d29e9e78a1c5856e75ba0d8cca9dd2a8c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "6db99ead09a932f8fd2f94b0a3d096dd2e27f654ceab75188b64b55bc022b492"
+metafile = true
+
+[[files]]
+file = "shaderpacks/renderpearl.pw.toml"
+hash = "ac8649e2875ebec6cb811e49e0bc48486316d5542802fe165c665b4d5efdca54"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "ab78f02fcfcce074baf55ef0d8e5ff74ab1f504ce517c2a6f41fe5d60acaea55"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "7909bbf237f7fb2682f2ff8627d71b840add76d62b0710869128742dafd486ab"
+metafile = true
+
+[[files]]
+file = "shaderpacks/soft-voxels-lite.pw.toml"
+hash = "0e90e7f5b8863e3bad87d4b182b3697c7ec13bbf89415ad0d10d25cc7f409ff7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "8ee5414a853c214cce5579377144d8423cadbfce4dfe361d1dfd8f0b9559abd3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/spooklementary.pw.toml"
+hash = "1b528f87eb1fea062a902db1e25612f7cd5b6fe3ff65bb5e4a51428e895ce06a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "1567011c61adeb223e3bc5dced9f4eecada2ef2bb57e123a8a861bc22b4fbc60"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ushader.pw.toml"
+hash = "9ba1b0150d5b48de40ec375af752039f30b8ed9f2094ec137c10b2dc22013419"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanilla-plus-shader.pw.toml"
+hash = "c74f0824b187d8e2126ac7bc06667e1072233d8eaf33b1dfe8a92885d867f5ef"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "4de8522e2fa6205f486079642d4ff6e420579940a282a110b1a2065cb6001a98"
+metafile = true
+
+[[files]]
+file = "shaderpacks/visual-vibrance.pw.toml"
+hash = "0ed807dfff75bef2677cf0ebb1faa629672b4331c1361ab4fa4a37b055db47e6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/voyager-shader-2.0.pw.toml"
+hash = "68c775db10b1b9daf350372e772786f14657c8d279c0bcf9a206f462ae12efea"
+metafile = true

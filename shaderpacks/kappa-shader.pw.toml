@@ -1,0 +1,42 @@
+filename = 'Kappa_v5.3.zip'
+name = 'Kappa Shader'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.3'
+
+[download]
+hash = '1103f42fe599ac6634675aa58e17de94b77b89ba148f30f3b4168eaebfe9e6ebc7fec76968c33b145d64e3234746efe3a932e0c2c46785f7e1b5b8bda8d355f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y8161YLz/versions/8p4viq8V/Kappa_v5.3.zip'
+
+[update.modrinth]
+mod-id = 'Y8161YLz'
+version = '8p4viq8V'

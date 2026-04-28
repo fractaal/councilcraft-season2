@@ -1,0 +1,38 @@
+filename = 'Visual-Vibrance-v0.3.5a.zip'
+name = 'Visual Vibrance'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.3.5a'
+
+[download]
+hash = '6ff69514259793ef54c3e8d9f849da3b23e9bc4a825417401299fae05093574895ed6bf274800db4d85bc0d5e33324b914d645b701c1515093928c6a9291bffe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l6Uqs2fS/versions/zGC385Y8/Visual-Vibrance-v0.3.5a.zip'
+
+[update.modrinth]
+mod-id = 'l6Uqs2fS'
+version = 'zGC385Y8'

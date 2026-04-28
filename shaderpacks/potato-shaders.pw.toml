@@ -1,0 +1,51 @@
+filename = 'PotatoShaders_v1.0d.zip'
+name = 'Potato Shaders'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.12',
+    '1.12.1',
+    '1.12.2',
+    '1.13',
+    '1.13.1',
+    '1.13.2',
+    '1.14',
+    '1.14.1',
+    '1.14.2',
+    '1.14.3',
+    '1.14.4',
+    '1.15',
+    '1.15.1',
+    '1.15.2',
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0d'
+
+[download]
+hash = 'acac7b3bda7257a037378bb772c1d93fdc472c97097b6f5811f81ff490b5aa520a72048504ebd31f68756b457259aca7d2be4b8ddb0185584960de1fbfca2de9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WX4iF5Cj/versions/eFL8xOji/PotatoShaders_v1.0d.zip'
+
+[update.modrinth]
+mod-id = 'WX4iF5Cj'
+version = 'eFL8xOji'

@@ -1,0 +1,38 @@
+filename = 'Derivative Main d24.4.4.zip'
+name = 'Derivative Shader'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '24.4.4'
+
+[download]
+hash = '013159603c3be003422e5986225c9e78981ec031de297868ed1b4af00cbdc02a8cae0a46c042818fd08a9a9d515bae95047b6770276006be4bfec496d71f2d34'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VhyiMYpL/versions/pnMUaiAp/Derivative Main d24.4.4.zip'
+
+[update.modrinth]
+mod-id = 'VhyiMYpL'
+version = 'pnMUaiAp'

@@ -1,0 +1,43 @@
+filename = 'Voyager shader 2.0.8.zip'
+name = 'Voyager shader 2.0'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.8'
+
+[download]
+hash = '755bab481694f6e037dcf12760aff0f6f9911e3bb0d773dcff7d388db9b00f7d620e95f3c1500112b63b9582485866b05a84f8803e6fddb820f25d1fb920fde2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/71EyVfCn/versions/GZ6KdIAk/Voyager shader 2.0.8.zip'
+
+[update.modrinth]
+mod-id = '71EyVfCn'
+version = 'GZ6KdIAk'

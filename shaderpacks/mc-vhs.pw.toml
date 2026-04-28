@@ -1,0 +1,32 @@
+filename = 'MCVHSV2.zip'
+name = 'MC VHS'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5'
+]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '2'
+
+[download]
+hash = '29aa5c60f2690280e3df9e6ada683d5b87c15fbec8158da99264030b3e18d3ed8bfc0f95d5ec9e6c10c98474a49644ac7951adaf7245ea55e14804212029bb3e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yhXP52S3/versions/UvQ7EfTW/MCVHSV2.zip'
+
+[update.modrinth]
+mod-id = 'yhXP52S3'
+version = 'UvQ7EfTW'
