@@ -6,7 +6,7 @@ hash = "9613dbd9b1223cd36b906ca609be8710fd9e63e0cbddf9c16eacbb34e39a34d3"
 
 [[files]]
 file = "CLAUDE.md"
-hash = "9613dbd9b1223cd36b906ca609be8710fd9e63e0cbddf9c16eacbb34e39a34d3"
+hash = "45dd79c68f7ba3aed270645bb8ed1f9509eb0f230c3b651a3f9672a17aa82d47"
 
 [[files]]
 file = "README.md"
@@ -541,11 +541,6 @@ hash = "976d09beb4dcab7b2364091459735d425226c6c309fbc3b1c929b308b99476c7"
 metafile = true
 
 [[files]]
-file = "mods/death-keeper.pw.toml"
-hash = "28e5006830371ae54593597d26392df4619f0c15b3176769db902dbbbe1d7fbc"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7e01c6f0728da08b83df626b866ca83e770b80d3213e9107561d4b816069ed37"
 metafile = true
@@ -708,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
 metafile = true
 
 [[files]]
@@ -1609,6 +1609,10 @@ metafile = true
 file = "resourcepacks/joyful-motions.pw.toml"
 hash = "3f78dda10d9a8a58c93a139e656ee42d7f047f50cf7eb2de1aef708659d9160d"
 metafile = true
+
+[[files]]
+file = "scripts/build-dist-zip.sh"
+hash = "5bf8d02ee03091226192497027ab17cce1e5a30fcd2ac7ad7289fdf4ade80ab9"
 
 [[files]]
 file = "scripts/packwiz-installer-bootstrap.jar"
