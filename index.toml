@@ -21,6 +21,10 @@ file = "config/lithium.properties"
 hash = "4db6493f31286222f8b3100cbb66dcf5abcda5b48c9d7bc76fa3250c7c3b0362"
 
 [[files]]
+file = "dist/spell_engine-neoforge-1.9.9+1.21.1-councilcraft.jar"
+hash = "5bf46cf7f70443dc35af41e12ee79beac66919df1afc5c850674b83e04fecfa4"
+
+[[files]]
 file = "mods/acceleratedrendering.pw.toml"
 hash = "914fc515df459b3e99ceaabcac337419134b886288b4ea42c3d849759687945a"
 metafile = true
@@ -121,8 +125,18 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "59ef95f3ffc0a9f5a4d3be82d09c5f2608c83fc7a4b9dd4ef4eb0070d15d11b7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "a4c9207aac3667fd2021bba2879b8407d5f6609b34f2f1c8fea70d9fa302b093"
 metafile = true
 
 [[files]]
@@ -133,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/arsdelight.pw.toml"
 hash = "4cb216ce5180c707ea38e47de43cbda4a927a4a0534d325d1cb8a72f7e529072"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "ec014d5f3a17c0daad38840adc7b5de98de7dacdf9826c32c4c5f6389d27e5cb"
 metafile = true
 
 [[files]]
@@ -203,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
+metafile = true
+
+[[files]]
+file = "mods/bundle-api.pw.toml"
+hash = "a7e46ae0871bb75452fcd2044a7a320beb08b2a691518111c9e4906a9c6fde39"
 metafile = true
 
 [[files]]
@@ -666,6 +690,11 @@ hash = "92303dbd8c17ce81bbd7c4280834c5f9c6423c0fdd69ced12fb666e30384574e"
 metafile = true
 
 [[files]]
+file = "mods/gazebos.pw.toml"
+hash = "7fc039ec92f628dc7679a7afcb319f443081c3aecc59819257cb32100a85af38"
+metafile = true
+
+[[files]]
 file = "mods/gears-n-kinetics.pw.toml"
 hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
 metafile = true
@@ -1091,6 +1120,11 @@ hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "dfeea0349a851f6495e4d4bc7b8d633fecfd3b7263364eb00024a2af1d233f08"
 metafile = true
@@ -1181,6 +1215,11 @@ hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
 
 [[files]]
+file = "mods/relics-rpg.pw.toml"
+hash = "10d3e32162d601eef892f9cecde6028ec48881999b063138b3674a45e2200b2b"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "91fc6aa751da80c2951106b582d45508b7cbe1d2ea54458beac85d1337029c1c"
 metafile = true
@@ -1206,8 +1245,18 @@ hash = "9c0d37bfbfdda77af1946da1d80aa48e7dfea9611c43d5c81c70676b1d854af6"
 metafile = true
 
 [[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "e35cf7c4bfef1d4cf8158c4df9134b93bce4f99e00829aa3d48912b7beffc0b7"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
 
 [[files]]
@@ -1286,6 +1335,11 @@ hash = "bea5c334329167c70e633a3dad78b368bca304f1da00adea9d2ceea765945992"
 metafile = true
 
 [[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "24cb3b9895dc5026be8c92177cb0d90a843c00ea29782ce5ff63766360e3a57d"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "b675c16db470dffe65e4ee37e6a6de592afdcd8f3d7992003e36731fd0eb1ea9"
 metafile = true
@@ -1338,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/spartan-weaponry-unofficial.pw.toml"
 hash = "4989e6587c90f771e954c48a8f52a99a1d58e69f45d1a8409ab5ca317bce94f1"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "2e3329a0bf185c6620228888e96cdbbb6fa2fcfa21ae9324a98c7f9d634f363f"
 metafile = true
 
 [[files]]
@@ -1448,6 +1507,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
 metafile = true
 
 [[files]]

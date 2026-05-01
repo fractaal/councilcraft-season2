@@ -1,0 +1,8 @@
+name = "Spell Engine (CouncilCraft fork)"
+filename = "spell_engine-neoforge-1.9.9+1.21.1-councilcraft.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/dist/spell_engine-neoforge-1.9.9%2B1.21.1-councilcraft.jar"
+hash-format = "sha512"
+hash = "243c59e723f64b157b0fa63500d2a905d138fe63eef4508a0083dc665be58d92b6622ab6fe9a091d8fd2902078a20d1d3610cdd6612afa6724a218e3afb5ce2b"
