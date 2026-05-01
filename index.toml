@@ -576,6 +576,11 @@ hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "276a01bd8812a9bd3619952524c976829e4fc93c2824e0af963cdfa2c407b331"
+metafile = true
+
+[[files]]
 file = "mods/eternal-nether.pw.toml"
 hash = "9dfa76ffc920d0abefb53c682dbd3a7129ff149761dcd33587971a440ecc025f"
 metafile = true
@@ -1328,6 +1333,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-unofficial.pw.toml"
+hash = "4989e6587c90f771e954c48a8f52a99a1d58e69f45d1a8409ab5ca317bce94f1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Epic Knights: Shields Armor and Weapons"
+filename = "epic-knights-1.21.1-neoforge-10.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L6jvzao4/versions/bdxNv9fy/epic-knights-1.21.1-neoforge-10.12.jar"
+hash-format = "sha512"
+hash = "37deb3abccbbfc4e1e155b1c1184eb2d5d86a7916c9e17614db57834400740324a5bfe554355e6a7743ac7c0df921714b243e7e8e29b6dc54c9aa4fe6e3a1611"
+
+[update]
+[update.modrinth]
+mod-id = "L6jvzao4"
+version = "bdxNv9fy"
