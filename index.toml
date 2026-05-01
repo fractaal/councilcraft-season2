@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".codex"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "AGENTS.md"
 hash = "9613dbd9b1223cd36b906ca609be8710fd9e63e0cbddf9c16eacbb34e39a34d3"
 
