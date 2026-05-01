@@ -1,0 +1,13 @@
+name = "Quick Skin"
+filename = "Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/INuI60Al/Quick%20Skin%20-%20NeoForge%20-%201.21.1-2.6.2.4.jar"
+hash-format = "sha512"
+hash = "7f6eb037aba8df6110e30014217aee343a995f272ab781284c1387e93e15e30cdcd7364d2aaa755c1be7e291df2a484f52a581c100966c2239feeb20e41f964c"
+
+[update]
+[update.modrinth]
+mod-id = "zAIE84Ch"
+version = "INuI60Al"
