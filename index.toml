@@ -1011,6 +1011,11 @@ hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "582f907ddfa3c0a3aaa93ec380319372c69c3d5bf1ab71d08318b418a2d49162"
 metafile = true
