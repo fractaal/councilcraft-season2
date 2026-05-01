@@ -10,3 +10,4 @@ additions.log
 # Mod jars belong in Modrinth/CF CDN, never here.
 # (scripts/packwiz-installer-bootstrap.jar is tooling, not a mod — keep it.)
 mods/*.jar
+.codex
