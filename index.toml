@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".codex"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "AGENTS.md"
 hash = "9613dbd9b1223cd36b906ca609be8710fd9e63e0cbddf9c16eacbb34e39a34d3"
 
@@ -91,11 +95,6 @@ hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
-metafile = true
-
-[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
 metafile = true
@@ -173,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
-metafile = true
-
-[[files]]
-file = "mods/bedsheet.pw.toml"
-hash = "79803478cecaf08cae039a913e74256f5f0e506e4ab48210a67cc001c883b753"
 metafile = true
 
 [[files]]
@@ -1466,11 +1460,6 @@ hash = "7fc73d97c7e9e8c869d52d79b7a5b7a5c473a5a386d3072740743c3ea672ff55"
 metafile = true
 
 [[files]]
-file = "mods/unionlib.pw.toml"
-hash = "f76864e44e24ed8e0b6f35ab6dc47ecf900defce664a62b10c60f697851599ef"
-metafile = true
-
-[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
@@ -1508,6 +1497,16 @@ metafile = true
 [[files]]
 file = "mods/wwoo.pw.toml"
 hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
 metafile = true
 
 [[files]]
