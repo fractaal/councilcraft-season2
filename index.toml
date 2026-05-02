@@ -1524,6 +1524,11 @@ hash = "c7b11bcff0518e7eb0f96891596381fb5033a8d528935fff31ebd71add912b90"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
 metafile = true
