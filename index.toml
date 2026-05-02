@@ -103,6 +103,11 @@ hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-create-recipe.pw.toml"
+hash = "c8389918e65b368698d36e8b555904e3f5704ff9d9f5c7bb46794fa4263bbc2c"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
 metafile = true
@@ -110,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
+metafile = true
+
+[[files]]
+file = "mods/apothic-combat.pw.toml"
+hash = "1b48a649e684ae1b73f49676450ab123ad28c02459cf28b2bb231b9c1112ca3b"
 metafile = true
 
 [[files]]
@@ -443,6 +453,11 @@ hash = "4c2a8d07fc42c3a0f3dfc49e8acc2d9c2271be07b6ad71341e308e92dd83571d"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
+metafile = true
+
+[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "d89b4b4ab53dbb862b01c81fed02e57df013c37b8cd19845245d6a9da6d436c9"
 metafile = true
@@ -555,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-dungeons.pw.toml"
+hash = "9264c185d29abc76263359eddf04f6ac5cc8405fda958e5f78c99d9f33d2de78"
 metafile = true
 
 [[files]]
