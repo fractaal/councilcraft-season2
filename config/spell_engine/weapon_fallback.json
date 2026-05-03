@@ -13,7 +13,9 @@
           "pool": "",
           "slot": "",
           "max_spell_count": 0,
-          "spell_ids": [],
+          "spell_ids": [
+            "rpg_series:ground_slam"
+          ],
           "extra_tier_binding": 0
         }
       },
