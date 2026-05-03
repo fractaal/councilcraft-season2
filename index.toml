@@ -21,6 +21,10 @@ file = "config/lithium.properties"
 hash = "4db6493f31286222f8b3100cbb66dcf5abcda5b48c9d7bc76fa3250c7c3b0362"
 
 [[files]]
+file = "config/spell_engine/weapon_fallback.json"
+hash = "f953e58b4ec3aa4fd0bbde7b604888864eb1c4f6e46e2b86aea3942d2e478705"
+
+[[files]]
 file = "config/subtle_effects/entities.toml"
 hash = "5707104d62a4f6e2c9a9d03825ac3f76be25a91c5995896f73c017b7956642ac"
 
