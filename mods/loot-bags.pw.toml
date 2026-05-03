@@ -1,0 +1,13 @@
+name = "Loot Bags"
+filename = "loot-bags-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QmCVRmmn/versions/Pw1hKdsq/loot-bags-3.1.jar"
+hash-format = "sha512"
+hash = "e85c16d47dbad4e204253047884df64a74cf504c70483e09253dc18a8722458266d1d48b70b17b3018671f91787bd510423cedaed68ce835ac77ad814494da96"
+
+[update]
+[update.modrinth]
+mod-id = "QmCVRmmn"
+version = "Pw1hKdsq"
