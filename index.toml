@@ -22,7 +22,7 @@ hash = "4db6493f31286222f8b3100cbb66dcf5abcda5b48c9d7bc76fa3250c7c3b0362"
 
 [[files]]
 file = "config/spell_engine/weapon_fallback.json"
-hash = "f953e58b4ec3aa4fd0bbde7b604888864eb1c4f6e46e2b86aea3942d2e478705"
+hash = "7b0f805fd309c87ceed663267213658ac33972d2b3381dacfd68af951811eb8f"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
