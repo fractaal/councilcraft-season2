@@ -578,6 +578,11 @@ hash = "9264c185d29abc76263359eddf04f6ac5cc8405fda958e5f78c99d9f33d2de78"
 metafile = true
 
 [[files]]
+file = "mods/discord-integration-(di).pw.toml"
+hash = "af8b8c64714dc0ef3fd4ffb12462edabbe7a62295b9a574bb8968b4e62cec28a"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f780b5059ffa4f212a9fbfce6f9a725d4e2ee017fc171d0ca6972fbb0c67eb72"
 metafile = true
