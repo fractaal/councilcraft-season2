@@ -1,13 +1,8 @@
-name = "Sable"
-filename = "sable-neoforge-1.21.1-1.1.3.jar"
+name = "Sable (CouncilCraft fork — pose-gate patch)"
+filename = "sable-neoforge-1.21.1-1.1.3-cc1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "98b491efe417046ced3fc4b2e45f603b5007c972"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7965090
-project-id = 1312371
+url = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/dist/sable-neoforge-1.21.1-1.1.3-cc1.jar"
+hash-format = "sha512"
+hash = "d0e5fd9df02fe1df008a591018d5a8a016a764c0cd03ff0c2c1570a19e0aec4a6a88bbb42284b6198232bddcc428545f990459e93dbbf5683823e3f14593ddac"
