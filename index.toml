@@ -197,6 +197,11 @@ hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-particle.pw.toml"
 hash = "eaedd13a0f95e9ead52928bcd89f947e4693ef8d940e035ca360db0d87c12163"
 metafile = true
@@ -1579,6 +1584,11 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "89587a0643aa126da364a94ae1c1c3935dcb03759b4caac30875b41ac9984734"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "65242951f26a65cce20bcc2c796805b655046970ee8fe13990976e649fa6ba04"
 metafile = true
 
 [[files]]
