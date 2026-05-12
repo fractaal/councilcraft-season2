@@ -37,6 +37,10 @@ file = "dist/spell_engine-neoforge-1.9.9+1.21.1-councilcraft.jar"
 hash = "5bf46cf7f70443dc35af41e12ee79beac66919df1afc5c850674b83e04fecfa4"
 
 [[files]]
+file = "dist/toms-peripherals-1.21-1.3.0-cc1.jar"
+hash = "21bfc5dec7a573c717f91f265265f8e35aabfd879ccee523faba83a531b9539d"
+
+[[files]]
 file = "mods/acceleratedrendering.pw.toml"
 hash = "914fc515df459b3e99ceaabcac337419134b886288b4ea42c3d849759687945a"
 metafile = true
@@ -1548,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
-hash = "b5be069a2fae0df4cf4d032a8332c6011029f9ab9c3b9532d209747d44961dee"
+hash = "a858460b5150fa65c04f00130364a7a7bb0350809de7d44129e64246b792f3fa"
 metafile = true
 
 [[files]]
