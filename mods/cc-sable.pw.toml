@@ -1,13 +1,8 @@
-name = "CC: Sable"
+name = "CC: Sable (CouncilCraft fork)"
 filename = "cc_sable-neoforge-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OPNBxiZD/versions/WeMVsTHt/cc_sable-neoforge-1.2.2.jar"
+url = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/dist/cc_sable-neoforge-1.2.2.jar"
 hash-format = "sha512"
-hash = "4fd4b0b105c83497957c1281e94d49db95e1626b078b4446bd355f38b08d639e725ed838c42a4dc2912f27c4376f195fbe48666219973a096d3cfd101f14c6b9"
-
-[update]
-[update.modrinth]
-mod-id = "OPNBxiZD"
-version = "WeMVsTHt"
+hash = "873561234490f0292283b6ac035fbd7288b33a7eea37c8f4d585aebfdb3b527aafef7c6653205900c854a8eecb78c51396594aa1393df8c433b8de3538d2bb5b"

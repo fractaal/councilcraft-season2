@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/dist/sable-neoforge-1.21.1-1.1.3-cc1.jar"
 hash-format = "sha512"
-hash = "d0e5fd9df02fe1df008a591018d5a8a016a764c0cd03ff0c2c1570a19e0aec4a6a88bbb42284b6198232bddcc428545f990459e93dbbf5683823e3f14593ddac"
+hash = "670f5555fcad4f4ccbf713796ac939167efba1bf14e6a2e869ae2903e74d890c3fbdd4837f6dd067e88a0edf058c104d99c862fea2d46cd1b362873058314069"

@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/dist/toms-peripherals-1.21-1.3.0-cc1.jar"
 hash-format = "sha512"
-hash = "7966503c1aeac90a2c932bd4db5f5ed77b6885a80999a61ee36b9889faad2e40f2e9e7debe4a83deef03f5e2ff90ad99b96d95cbf6538fdd189938ed2b13664a"
+hash = "522789f1149fc97c00645528ee35cf76ce2524ca53dd526ff6d5de3dbbd65d002d81ed34c3f8b1ebe1b94446ca5a58b383ea39466f0ad8d32b63703a5563854a"

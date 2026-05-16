@@ -29,8 +29,12 @@ file = "config/subtle_effects/entities.toml"
 hash = "5707104d62a4f6e2c9a9d03825ac3f76be25a91c5995896f73c017b7956642ac"
 
 [[files]]
+file = "dist/cc_sable-neoforge-1.2.2.jar"
+hash = "f37cba672547fc5d78fd668606acde99204e2ce9dff8e717f2802424c67474ec"
+
+[[files]]
 file = "dist/sable-neoforge-1.21.1-1.1.3-cc1.jar"
-hash = "d28d18afc45dcbec13a6a8a2d96b83f9232188e2378be7d6e598fc6ac4ace11e"
+hash = "7d700e27fa855effe81631888afac37f81cfc68fbf59c9cd054df49fd4c98771"
 
 [[files]]
 file = "dist/spell_engine-neoforge-1.9.9+1.21.1-councilcraft.jar"
@@ -38,7 +42,11 @@ hash = "5bf46cf7f70443dc35af41e12ee79beac66919df1afc5c850674b83e04fecfa4"
 
 [[files]]
 file = "dist/toms-peripherals-1.21-1.3.0-cc1.jar"
-hash = "21bfc5dec7a573c717f91f265265f8e35aabfd879ccee523faba83a531b9539d"
+hash = "aea299c96cce631d017525fd4be88c3725de9427bac04910e9cf321b88be8c60"
+
+[[files]]
+file = "dist/txnilib-neoforge-1.0.24-1.21.1.jar"
+hash = "2e785215cbddf19dfd06d11613fff61bc6716607fdfac495d00ca22de6686d43"
 
 [[files]]
 file = "mods/acceleratedrendering.pw.toml"
@@ -282,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-sable.pw.toml"
-hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
+hash = "a5e8a31c28f60710474f949d0dd56661dba2d99ffd41a5c2b65fb21fbbe9c173"
 metafile = true
 
 [[files]]
@@ -1342,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f85ac11e003597d82843280a506b7a323b68bb5d8a18b584ecedac5cda9f0e52"
+hash = "dc3e144386b536327bef223c74fe0340d1683ad0e19e9a6b2c8fd5661c28a275"
 metafile = true
 
 [[files]]
@@ -1552,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
-hash = "a858460b5150fa65c04f00130364a7a7bb0350809de7d44129e64246b792f3fa"
+hash = "9f7b657d3c25d4fb91982d153033b827874840fa6d21281ef1b813a3bfb03b7a"
 metafile = true
 
 [[files]]
@@ -1562,7 +1570,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+hash = "0d6a801faae067706430ca65d93d1d5eec8fa26ba5920c505938d99b28055674"
 metafile = true
 
 [[files]]
