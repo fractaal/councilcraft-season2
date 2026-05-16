@@ -17,6 +17,10 @@ file = "config/connectivity.json"
 hash = "8b8b8cd48f23c577a11a0b45c4ea76b433ffd5dd81659ad47d668e68a522dd3e"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "e147a0d9d843f45f7072f8bb0182bd6944f3590679de06657a190fd2c365f022"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "4db6493f31286222f8b3100cbb66dcf5abcda5b48c9d7bc76fa3250c7c3b0362"
 
@@ -47,11 +51,6 @@ hash = "aea299c96cce631d017525fd4be88c3725de9427bac04910e9cf321b88be8c60"
 [[files]]
 file = "dist/txnilib-neoforge-1.0.24-1.21.1.jar"
 hash = "2e785215cbddf19dfd06d11613fff61bc6716607fdfac495d00ca22de6686d43"
-
-[[files]]
-file = "mods/acceleratedrendering.pw.toml"
-hash = "914fc515df459b3e99ceaabcac337419134b886288b4ea42c3d849759687945a"
-metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
