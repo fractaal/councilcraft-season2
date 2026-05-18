@@ -53,6 +53,10 @@ file = "dist/txnilib-neoforge-1.0.24-1.21.1.jar"
 hash = "2e785215cbddf19dfd06d11613fff61bc6716607fdfac495d00ca22de6686d43"
 
 [[files]]
+file = "dist/waystones-neoforge-1.21.1-21.1.32-cc1.jar"
+hash = "f2752f1c2d86ad01d36aa12f501cd0493c1450bd62f26e89e84f1dd89bc1c150"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -1619,7 +1623,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "65242951f26a65cce20bcc2c796805b655046970ee8fe13990976e649fa6ba04"
+hash = "af96489d2161788e78b44ce000d92b766f75b45573bff64c7643b43c54e2314e"
 metafile = true
 
 [[files]]

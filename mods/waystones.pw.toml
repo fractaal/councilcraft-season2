@@ -1,13 +1,9 @@
 name = "Waystones"
-filename = "waystones-neoforge-1.21.1-21.1.32.jar"
+filename = "waystones-neoforge-1.21.1-21.1.32-cc1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/4KYyPrDB/waystones-neoforge-1.21.1-21.1.32.jar"
+url = "https://raw.githubusercontent.com/fractaal/councilcraft-season2/main/dist/waystones-neoforge-1.21.1-21.1.32-cc1.jar"
 hash-format = "sha512"
-hash = "af56a831e09f7e39af1e3381ce94e7e1e2728b4ef9b62c1a9f5586b2dffcb23178656ce77fb04da7f2bc9819d7d3d55c6fec50bf8c8b4eb0e16622f65d07fcdb"
+hash = "c0d418523c943bb4f570e8740fff7211adc4c6dcea196fb2a036e135e56b3f29d1d64f3c1833ba5e2411ab84294be859afff4469e0dd3d7d3e105c3eb120f2b5"
 
-[update]
-[update.modrinth]
-mod-id = "LOpKHB2A"
-version = "4KYyPrDB"
